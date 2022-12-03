@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/muzardemoses/Coffeeroasters-subscription-site-solution)
+- Solution URL: [Check solution URL here](https://github.com/muzardemoses/Coffeeroasters-subscription-site-solution)
 - Live Site URL: [Check live site URL here](https://coffeeroasters-subscription-site-muza.netlify.app/)
 
 ## My process

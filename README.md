@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Check solution URL here](https://github.com/muzardemoses/Coffeeroasters-subscription-site-solution)
-- Live Site URL: [Check live site URL here](https://coffeeroasters-subscription-site-muza.netlify.app/)
+- Live Site URL: [Check live site URL here](https://coffeeroasters-subscription-site-solution.vercel.app/)
 
 ## My process
 

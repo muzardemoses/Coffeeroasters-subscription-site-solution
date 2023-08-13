@@ -1,6 +1,6 @@
 import React from "react";
 import "../Assets/Styles/footer.css";
-import { NavLink } from "react-router-dom";
+import { Link } from "react-router-dom";
 
 
 export const Footer = () => {
@@ -40,24 +40,24 @@ export const Footer = () => {
         </svg>
       </div>
       <div className="footer-links">
-        <NavLink
+        <Link
           to="/"
           className={({ isActive }) => (isActive ? "selected" : null)}
         >
           Home
-        </NavLink>
-        <NavLink
+        </Link>
+        <Link
           to="/about-us"
           className={({ isActive }) => (isActive ? "selected" : null)}
         >
           About Us
-        </NavLink>
-        <NavLink
+        </Link>
+        <Link
           to="/create-your-plan"
           className={({ isActive }) => (isActive ? "selected" : null)}
         >
           Create Your Plan
-        </NavLink>
+        </Link>
       </div>
       <div className="social-icons">
         <a href="https://web.facebook.com/ademuzardemoses/" target="blank">
